@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.slueth.sampler.probability",
+      "type": "java.lang.String",
+      "description": "Description for spring.slueth.sampler.probability."
+  }
+] }
